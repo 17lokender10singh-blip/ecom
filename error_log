@@ -1,0 +1,416 @@
+[09-Jun-2025 16:55:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:01:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:03:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 4
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 4
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(includes/functions.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 5
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(): Failed opening 'includes/functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 5
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(includes/header.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 6
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 6
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(includes/footer.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 123
+[10-Jun-2025 17:05:14 UTC] PHP Warning:  include(): Failed opening 'includes/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 123
+[10-Jun-2025 17:05:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php:7
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php(7): mysqli_connect('localhost', 'root', Object(SensitiveParameterValue), 'ecommerce')
+#1 /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php(4): include('/home1/whatsetz...')
+#2 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/includes/config.php on line 7
+[10-Jun-2025 17:05:44 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 4
+[10-Jun-2025 17:05:44 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 4
+[10-Jun-2025 17:06:06 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:06:06 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:06:16 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:06:16 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:06:44 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:06:44 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:08:02 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:08:02 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:31 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:31 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:49 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:49 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:50 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:09:50 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:08 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:08 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:14 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:10:14 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:10:31 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:31 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:50 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:10:50 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:10 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:10 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:27 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:11:27 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:11:36 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 17:11:36 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 17:11:40 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:11:40 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:11:47 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:11:47 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:11:50 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:11:50 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:12:18 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:12:18 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:13:55 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:13:55 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:14:49 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:14:49 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:15:16 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:15:16 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:15:16 UTC] PHP Warning:  Undefined variable $conn in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 8
+[10-Jun-2025 17:15:16 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php:8
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php(8): mysqli_real_escape_string(NULL, 'kalpana')
+#1 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 8
+[10-Jun-2025 17:15:26 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:15:26 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 17:15:28 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 17:15:28 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 17:15:39 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 17:15:39 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 17:15:39 UTC] PHP Warning:  Undefined variable $conn in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 14
+[10-Jun-2025 17:15:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php:14
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php(14): mysqli_real_escape_string(NULL, 'kalpanapanwar59...')
+#1 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 14
+[10-Jun-2025 17:15:46 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:15:46 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:15:52 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:15:52 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:16:09 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:16:09 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:16:19 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:16:19 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:16:22 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:16:22 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:30:20 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:30:20 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:41:42 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:41:42 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:45:25 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:45:25 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:45:30 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:45:30 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:46:10 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:46:10 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:46:54 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:46:54 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:47:14 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:47:14 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:47:39 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:47:39 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:48:08 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:48:08 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/cart.php on line 5
+[10-Jun-2025 17:48:11 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:48:11 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:52:41 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:52:41 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:52:49 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:52:49 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:07 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:07 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:28 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 17:53:28 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 17:53:37 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:37 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:45 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:45 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:48 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:53:48 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:53:53 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:53:53 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:07 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:07 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:07 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:07 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:08 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:08 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:16 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:16 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:43 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:43 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:44 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:44 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:50 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:50 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:52 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:52 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:54 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:54 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:58 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:58 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:54:59 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:54:59 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:55:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:55:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:55:06 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:55:06 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:55:39 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:55:39 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:55:45 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:55:45 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:56:31 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:56:31 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:57:32 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:57:32 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:58:58 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:58:58 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:59:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:59:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:59:30 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:59:30 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:59:47 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:59:47 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 17:59:56 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 17:59:56 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:12 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:12 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:17 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:17 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:41 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:01:41 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:01:49 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:49 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:57 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:01:57 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:02:03 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:02:03 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:02:15 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:02:15 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:02:29 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:02:29 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:02:46 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 18:02:46 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 18:03:02 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 18:03:02 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 5
+[10-Jun-2025 18:03:02 UTC] PHP Warning:  Undefined variable $conn in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 14
+[10-Jun-2025 18:03:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php:14
+Stack trace:
+#0 /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php(14): mysqli_real_escape_string(NULL, 'kalpanapanwar59...')
+#1 {main}
+  thrown in /home1/whatsetz/test.fabmediatech.com/ecommerce/login.php on line 14
+[10-Jun-2025 18:03:18 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:18 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:23 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:23 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:29 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:29 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:38 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:03:38 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:03:40 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:40 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:03:45 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 18:03:45 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 18:07:00 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:00 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:05 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:05 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:10 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:10 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:15 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:15 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:07:28 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 18:07:28 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/register.php on line 3
+[10-Jun-2025 18:07:33 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:07:33 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:08:21 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:08:21 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:08:41 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:08:41 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:08:51 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:08:51 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:08:59 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:08:59 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:10 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:10 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:22 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:22 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:27 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:09:27 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:09:32 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:32 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:43 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:43 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:52 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:52 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:54 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:09:54 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:19:33 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:19:33 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:20:29 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:20:29 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:20:44 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:20:44 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:20:49 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 18:20:49 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/add_to_cart.php on line 5
+[10-Jun-2025 18:20:54 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:20:54 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:21:18 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:21:18 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:21:35 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:21:35 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:21 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:21 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:27 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:27 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:31 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:31 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:35 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:35 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:40 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:40 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:45 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:45 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:46 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:46 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:53 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:53 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:22:58 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:22:58 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:23:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:23:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:23:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:23:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:23:08 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:23:08 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:23:56 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:23:56 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:24:03 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:24:03 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:24:46 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:24:46 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:26:22 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:26:22 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:03 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:03 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:04 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:28 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:28 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:58 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:58 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:59 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:27:59 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:07 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:28:07 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:28:18 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:18 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:20 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:20 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:21 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:21 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:21 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:21 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:22 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:22 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:56 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:28:56 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:05 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:05 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:35 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:29:35 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:29:52 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:52 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:58 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:29:58 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:31:25 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:31:25 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:32:22 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:32:22 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:32:29 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:32:29 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/products.php on line 3
+[10-Jun-2025 18:32:41 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:32:41 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:01 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:01 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:03 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:03 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:06 UTC] PHP Warning:  include(includes/config.php): Failed to open stream: No such file or directory in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
+[10-Jun-2025 18:33:06 UTC] PHP Warning:  include(): Failed opening 'includes/config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/whatsetz/test.fabmediatech.com/ecommerce/index.php on line 3
